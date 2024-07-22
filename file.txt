@@ -1,0 +1,6 @@
+
+hello this is a test text for my artificial intelligence project.
+if you're hearing this that means you are using the third option of the menu.
+this option reads the txt file and searches the strings
+and uses pyttsx3 to convert it into speech
+
